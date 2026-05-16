@@ -1,4 +1,4 @@
-# ⚖️ Legal Research Assistant
+# Legal Research Assistant - Erik Struga
 
 A RAG-based chatbot that searches and summarizes **case law** and **statutes** from public legal databases — [CourtListener](https://www.courtlistener.com/) and [Congress.gov](https://congress.gov/).
 
